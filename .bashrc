@@ -1,7 +1,7 @@
 ############################################################
 # Simple but Cute and Helpful (TM) Bash Settings
 #
-# cat feedback >> "kirtika.ruchandani@gmail.com"
+# Thanks "kirtika.ruchandani@gmail.com"
 ############################################################
 
 #!/usr/bin/env bash
